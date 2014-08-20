@@ -46,8 +46,8 @@ class XYButtons(BufferedCanvas):
     corner_to_axis = {
         -1: "xy",
         0: "x",
-        1: "y",
-        2: "z",
+        1: "z",
+        2: "y",
         3: "all",
     }
 
